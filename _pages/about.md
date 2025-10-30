@@ -18,7 +18,7 @@ redirect_from:
     <p>Contact me at: <a href="mailto:ali.haider.ismail@gmail.com">ali.haider.ismail@gmail.com</a></p>
     
     <p>
-      <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV</a> 
+      <a href="{{ base_path }}/files/ismail-cv.pdf" class="btn btn--primary">Download CV</a> 
 	</p>
 	<p>
       <a href="{{ base_path }}/files/research-statement.pdf" class="btn btn--primary">Download Research Statement</a> for a summary of my job market paper and my research agenda.

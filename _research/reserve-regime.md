@@ -23,7 +23,7 @@ excerpt: |
 authors: 
     - name: "Diego Zúñiga"
       url: "https://sites.google.com/view/diego-zuniga"
-paperurl: 'https://alihaiderismail.github.io/files/ismail-zuniga_welfare.pdf'
+paperurl: 'https://ahismail.net/files/ismail-zuniga-welfare.pdf'
 date: 2025-10-21
 ---
 
