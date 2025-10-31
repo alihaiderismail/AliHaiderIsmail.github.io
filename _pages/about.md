@@ -21,7 +21,7 @@ redirect_from:
       <a href="{{ base_path }}/files/ismail-cv.pdf" class="btn btn--primary">Download CV</a> 
 	</p>
 	<p>
-      <a href="{{ base_path }}/files/research-statement.pdf" class="btn btn--primary">Download Research Statement</a> for a summary of my job market paper and my research agenda.
+      <a href="{{ base_path }}/files/research-statement.pdf" class="btn btn--primary">Download Research Statement (coming soon)</a> for a summary of my job market paper and my research agenda.
     </p>
   </div>
 </div>

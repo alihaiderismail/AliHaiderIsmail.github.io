@@ -2,7 +2,6 @@
 title: "Welfare Implications of Reserve Regimes"
 collection: research
 category: wp
-date: 
 excerpt: |
     We develop a general equilibrium model to quantify the welfare costs of
     alternative reserve regimes. Banks in our model face stochastic deposit
@@ -23,7 +22,6 @@ excerpt: |
 authors: 
     - name: "Diego Zúñiga"
       url: "https://sites.google.com/view/diego-zuniga"
-paperurl: 'https://ahismail.net/files/ismail-zuniga-welfare.pdf'
 date: 2025-10-21
 ---
 
